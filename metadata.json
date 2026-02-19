@@ -1,0 +1,7 @@
+{
+  "name": "SyncTime Pro - Smart Employee Clock-In",
+  "description": "A professional and streamlined employee time tracking system featuring AI-powered shift summaries and location-verified clock-ins.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
